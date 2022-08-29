@@ -27,7 +27,7 @@ git clone https://github.com/MR-X-404/PSYCHO4X
 
 cd PSYCHO4X
 
-python PSYCHO4X.py
+python RANDOM-CRACKER.py
 
 Note: (It’s a Paid Tool, So You Need Permission to Use it, Run this Commands & Send Approval Key in Admin Whatsapp, When Admin Says Your Approved then Run this Commands Again)
 
